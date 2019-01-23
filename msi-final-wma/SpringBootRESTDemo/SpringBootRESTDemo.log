@@ -1,0 +1,47 @@
+2018-12-27 00:00:21.218  INFO 78446 --- [http-nio-8080-exec-3] c.m.S.aop.LoggingAspect                  : getProducts was invoked!
+2018-12-27 00:00:21.224  INFO 78446 --- [http-nio-8080-exec-3] c.m.S.i.ProductHandlerInterceptor        : User 0:0:0:0:0:0:0:1 accessed your products.
+2018-12-27 00:00:22.261  INFO 78446 --- [http-nio-8080-exec-4] c.m.S.aop.LoggingAspect                  : getProduct was invoked!
+2018-12-27 00:00:36.202  INFO 78446 --- [http-nio-8080-exec-5] c.m.S.aop.LoggingAspect                  : getProducts was invoked!
+2018-12-27 00:00:36.204  INFO 78446 --- [http-nio-8080-exec-5] c.m.S.i.ProductHandlerInterceptor        : User 0:0:0:0:0:0:0:1 accessed your products.
+2018-12-27 00:01:51.543  INFO 78446 --- [http-nio-8080-exec-7] c.m.S.aop.LoggingAspect                  : getProducts was invoked!
+2018-12-27 00:01:51.544  INFO 78446 --- [http-nio-8080-exec-7] c.m.S.i.ProductHandlerInterceptor        : User 0:0:0:0:0:0:0:1 accessed your products.
+2018-12-27 00:02:04.983  INFO 78446 --- [http-nio-8080-exec-8] c.m.S.aop.LoggingAspect                  : getProducts was invoked!
+2018-12-27 00:02:04.984  INFO 78446 --- [http-nio-8080-exec-8] c.m.S.i.ProductHandlerInterceptor        : User 0:0:0:0:0:0:0:1 accessed your products.
+2018-12-27 00:02:08.501  INFO 78446 --- [http-nio-8080-exec-9] c.m.S.aop.LoggingAspect                  : getProduct was invoked!
+2018-12-27 00:02:10.136  INFO 78446 --- [http-nio-8080-exec-10] c.m.S.aop.LoggingAspect                  : getProducts was invoked!
+2018-12-27 00:02:10.137  INFO 78446 --- [http-nio-8080-exec-10] c.m.S.i.ProductHandlerInterceptor        : User 0:0:0:0:0:0:0:1 accessed your products.
+2018-12-27 00:19:12.896  WARN 78446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m51s328ms).
+2018-12-27 00:40:14.695  WARN 78446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m1s779ms).
+2018-12-27 01:02:54.082  WARN 78446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m39s342ms).
+2018-12-27 02:23:29.752  WARN 78446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h20m35s654ms).
+2018-12-27 02:44:32.861  WARN 78446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m32s972ms).
+2018-12-27 02:57:27.365  WARN 78446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=12m54s506ms).
+2018-12-27 03:33:30.864  WARN 78446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=35m33s481ms).
+2018-12-27 03:54:04.066  WARN 78446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m33s178ms).
+2018-12-27 04:14:37.998  WARN 78446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m33s910ms).
+2018-12-27 05:03:26.728  WARN 78446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=48m18s474ms).
+2018-12-27 07:04:03.129  WARN 78446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h36s400ms).
+2018-12-27 07:24:36.453  WARN 78446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m33s311ms).
+2018-12-27 07:45:10.333  WARN 78446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m33s887ms).
+2018-12-27 08:01:57.324  WARN 78446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m16s958ms).
+2018-12-27 08:41:43.348  WARN 78446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=39m46s6ms).
+2018-12-27 08:53:10.255  WARN 78446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=11m26s893ms).
+2018-12-27 09:06:10.632  WARN 78446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=12m30s16ms).
+2018-12-27 09:39:04.886  WARN 78446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m54s100ms).
+2018-12-27 09:53:55.311  WARN 78446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Retrograde clock change detected (housekeeper delta=20s342ms), soft-evicting connections from pool.
+2018-12-27 10:46:00.451  WARN 78446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m4s871ms).
+2018-12-27 11:00:50.631  WARN 78446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Retrograde clock change detected (housekeeper delta=20s106ms), soft-evicting connections from pool.
+2018-12-27 11:36:24.840  WARN 78446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=14m4s80ms).
+2018-12-27 12:01:46.202  WARN 78446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=22m21s345ms).
+2018-12-27 13:45:57.560  WARN 78446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h39m11s327ms).
+2018-12-27 14:06:05.437  WARN 78446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=12m7s840ms).
+2018-12-27 14:20:56.519  WARN 78446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Retrograde clock change detected (housekeeper delta=21s4ms), soft-evicting connections from pool.
+2018-12-27 15:59:06.528  INFO 78446 --- [Thread-11] ConfigServletWebServerApplicationContext : Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@56c1932f: startup date [Wed Dec 26 15:36:27 EST 2018]; root of context hierarchy
+2018-12-27 15:59:06.594  INFO 78446 --- [Thread-11] o.s.c.support.DefaultLifecycleProcessor  : Stopping beans in phase 2147483647
+2018-12-27 15:59:06.595  INFO 78446 --- [Thread-11] o.s.c.support.DefaultLifecycleProcessor  : Stopping beans in phase 2147483547
+2018-12-27 15:59:06.595  INFO 78446 --- [Thread-11] o.s.c.support.DefaultLifecycleProcessor  : Stopping beans in phase 0
+2018-12-27 15:59:06.597  INFO 78446 --- [Thread-11] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2018-12-27 15:59:06.598  INFO 78446 --- [Thread-11] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans
+2018-12-27 15:59:06.605  INFO 78446 --- [Thread-11] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2018-12-27 15:59:06.621  INFO 78446 --- [Thread-11] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2018-12-27 15:59:06.649  INFO 78446 --- [Thread-11] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.

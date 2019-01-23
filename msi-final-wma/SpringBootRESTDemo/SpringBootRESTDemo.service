@@ -1,0 +1,10 @@
+[Unit]
+Description=Spring Boot REST Demo
+After=syslog.target
+ 
+[Service]
+User=ubuntu
+ExecStart=/home/ubuntu/Backend/target/SpringBootRESTDemo-0.0.1-SNAPSHOT.jar SuccessExitStatus=143
+ 
+[Install] 
+WantedBy=multi-user.target

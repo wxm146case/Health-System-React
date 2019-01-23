@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.mercury.SpringBootRESTDemo.bean.UserDetail"/>
+    <fullyQualifiedTypeName name="com.mercury.SpringBootRESTDemo.dao.UserDetailDao"/>
+    <fullyQualifiedTypeName name="com.mercury.SpringBootRESTDemo.dao.AppointmentDao"/>
+    <fullyQualifiedTypeName name="com.mercury.SpringBootRESTDemo.dao.UserDao"/>
+    <fullyQualifiedTypeName name="com.mercury.SpringBootRESTDemo.service.AppointmentService"/>
+    <fullyQualifiedTypeName name="com.mercury.SpringBootRESTDemo.bean.UserAppointment"/>
+    <fullyQualifiedTypeName name="antlr.collections.List"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.annotation.JsonSerialize"/>
+    <fullyQualifiedTypeName name="com.mercury.SpringBootRESTDemo.bean.UserProfile"/>
+    <fullyQualifiedTypeName name="com.mercury.SpringBootRESTDemo.bean.ResponseAppointment"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonIgnore"/>
+    <fullyQualifiedTypeName name="com.mercury.SpringBootRESTDemo.bean.ConnectedAppointment"/>
+    <fullyQualifiedTypeName name="com.mercury.SpringBootRESTDemo.bean.Appointment"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.DeleteMapping"/>
+    <fullyQualifiedTypeName name="com.mercury.SpringBootRESTDemo.bean.Comment"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.mercury.SpringBootRESTDemo.http.Response"/>
+    <fullyQualifiedTypeName name="com.mercury.SpringBootRESTDemo.bean.User"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="com.mercury.SpringBootRESTDemo.bean.DoctorDetailPatient"/>
+    <fullyQualifiedTypeName name="javax.websocket.server.ServerEndpoint"/>
+    <fullyQualifiedTypeName name="java.security.Principal"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="javax.websocket.Session"/>
+    <fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
+</qualifiedTypeNameHistroy>
